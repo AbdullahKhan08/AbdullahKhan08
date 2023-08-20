@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKhan08&theme=react&hide_border=true)<br/>
 
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=THEME_NAME=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=transparent)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
