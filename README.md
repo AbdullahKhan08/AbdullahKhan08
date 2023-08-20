@@ -20,4 +20,14 @@
 </a>
 
 </p>
+
+<p align = "center">
+  <a href="https://github.com/Akshu-on-github">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&hide=stars&theme=radical">
+  </a>
+  <a href="https://github.com/Akshu-on-github">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&layout=compact&theme=radical&card_width=250">
+  </a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
