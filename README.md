@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKhan08&theme=react&hide_border=true)<br/>
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=THEME_NAME=radical)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=transparent)
 
 
