@@ -10,24 +10,16 @@
 # 📊 GitHub Stats:
 
 <p>
-  
 <a href="https://github.com/AbdullahKhan08">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react" />
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react">
 </a>
 
 <a href="https://github.com/AbdullahKhan08">
-  <img  align = "center" height=150 alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&layout=compact&theme=react&card_width=250">
+  <img height=160 alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&layout=compact&theme=react&card_width=250">
 </a>
 
 </p>
 
-<p align = "center">
-  <a href="https://github.com/Akshu-on-github">
-    <img height=200 alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=radical">
-  </a>
-  <a href="https://github.com/Akshu-on-github">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&layout=compact&theme=radical&card_width=250">
-  </a>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
