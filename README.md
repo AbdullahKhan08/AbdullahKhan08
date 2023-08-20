@@ -15,6 +15,4 @@
 <a href="https://github.com/AbdullahKhan08/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKhan08&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
-
-![](https://github-readme-streak-stats.heroku.com/?user=AbdullahKhan08&theme=react&hide_border=true")
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
