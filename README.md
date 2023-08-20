@@ -12,13 +12,13 @@
 <div style="display: flex; flex-direction: row;">
   <div style="width:40%;"> 
 <a href="https://github.com/AbdullahKhan08/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react" />
+  <img style="height: auto; width: 55%" align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react" />
 </a>
   </div>
   <div  style="width:40%;>
     
 <a href="https://github.com/AbdullahKhan08/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKhan08&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img style="height: auto; width: 55%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKhan08&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
   </div>
 </div>
