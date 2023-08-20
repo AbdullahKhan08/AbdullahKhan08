@@ -10,15 +10,12 @@
 # 📊 GitHub Stats:
 
 <div style="display:flex">
-  
 <a href="https://github.com/AbdullahKhan08/github-readme-stats">
-  <img style="height: auto; width: 55%" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react" />
+  <img style="height: 200;" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react" />
 </a>
 
-    
 <a href="https://github.com/AbdullahKhan08/convoychat">
-  <img style="height: auto; width: 55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKhan08&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img style="height: 200;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKhan08&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
-
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
