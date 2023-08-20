@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/AbdullahKhan08">
-  <img height=190 alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&layout=compact&theme=react&card_width=250">
+  <img height=185 alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&layout=compact&theme=react&card_width=250">
 </a>
 
 </p>
