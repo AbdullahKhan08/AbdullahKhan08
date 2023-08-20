@@ -12,8 +12,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhan08&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahKhan08&theme=react&hide_border=true)<br/>
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=radical)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=transparent)
+
+<a href="https://github.com/AbdullahKhan08/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/AbdullahKhan08/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahKhan08&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
