@@ -29,9 +29,10 @@ I have experience across web development, backend systems, databases, internal t
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abdullahkhan12)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:abdullah.khan171202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahkhan12)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdullah.khan171202@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Abdullah_kh08)
+
 ## GitHub Activity
 
 <p>
@@ -39,7 +40,3 @@ I have experience across web development, backend systems, databases, internal t
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdullahKhan08&show_icons=true&hide_title=true&hide_border=true" alt="Abdullah Khan's GitHub statistics" />
   </a>
 </p>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
